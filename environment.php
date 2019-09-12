@@ -35,6 +35,6 @@ define('ENV', 'production');
 define('BASEURL', 'http://192.168.33.82/open-school-CE');
 
 //Database connections
-define('DB_CONNECTION','mysql:host=localhost;port=3306;dbname=db_name');
-define('DB_USER','user');
+define('DB_CONNECTION','mysql:host=localhost;port=3306;dbname=mydata');
+define('DB_USER','root');
 define('DB_PWD','reema');
